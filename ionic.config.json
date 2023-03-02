@@ -1,0 +1,7 @@
+{
+  "name": "OAS-OTG",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
